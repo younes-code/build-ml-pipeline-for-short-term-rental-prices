@@ -6,7 +6,7 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 ## Project links
-- [ Weights & Biases ](https://wandb.ai/younes-team/ny_airbnb?workspace=user-younes_kebour)
+- [ Weights & Biases ](https://wandb.ai/younes-team/nyc_airbnb?workspace=user-younes_kebour)
 - [ Github repository ](https://github.com/younes-code/build-ml-pipeline-for-short-term-rental-prices)
 
 ## Table of contents
